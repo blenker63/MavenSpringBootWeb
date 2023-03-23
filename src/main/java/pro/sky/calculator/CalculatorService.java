@@ -11,4 +11,6 @@ public interface CalculatorService {
 
     String divideCalculator(int num1, int num2);
 
+    String mistakeCalculator(int num1, int num2);
+
 }
