@@ -9,8 +9,5 @@ public interface CalculatorService {
 
     String multiplyCalculator(int num1, int num2);
 
-    String divideCalculator(int num1, int num2);
-
-    String mistakeCalculator(int num1, int num2);
-
+    String divideCalculator(double num1, double num2);
 }
